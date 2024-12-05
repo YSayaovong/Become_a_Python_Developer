@@ -49,11 +49,6 @@ The **Become a Python Developer** course by Zero To Mastery (ZTM) is a comprehen
 
 ---
 
-## Achievement
-🎉 **Bootcamp Completed 100%** 🎉  
-Mastery of Python fundamentals, advanced concepts, and practical applications.
-
----
 
 ## Why This Bootcamp Stands Out
 - **Hands-On Learning**:
